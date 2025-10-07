@@ -1,0 +1,2 @@
+# chatgpt-telemeetria-seeder
+andmebaas
